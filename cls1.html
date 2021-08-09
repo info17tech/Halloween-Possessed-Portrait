@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>class in js</title>
+
+</head>
+<body>
+<p class="jsselect">this is the first para</p>
+<p>this is second para</p>
+<p class="jsselect">third para</p>
+</body>
+<script type="text/javascript">
+	var x=document.getElementsByClassName("jsselect");
+	for(i=0;i<x.length;i++)
+		x[i].style="border-style:dotted;border-color:red;border-width:5px;"
+</script>
+</html>

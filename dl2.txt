@@ -1,0 +1,174 @@
+not defined
+dl302@soetcse:~/bhavna$ python3 dl54rcksci.py
+s
+enter choice r/p/ss
+s
+comp wins
+p
+enter choice r/p/sr
+r
+comp wins
+r
+enter choice r/p/ss
+s
+comp wins
+s
+enter choice r/p/sr               
+r
+comp wins
+p
+enter choice r/p/sr
+r
+comp wins
+s
+enter choice r/p/s
+
+comp wins
+p
+enter choice r/p/s^Z
+[1]+  Stopped                 python3 dl54rcksci.py
+dl302@soetcse:~/bhavna$ python3 dl54rcksci.py
+enter choice r/p/sr
+comp wins
+enter choice r/p/sp
+comp wins
+enter choice r/p/ss
+you win
+enter choice r/p/st
+comp wins
+enter choice r/p/sp
+you win
+enter choice r/p/sr
+comp wins
+enter choice r/p/ss
+you win
+enter choice r/p/sr
+comp wins
+enter choice r/p/s^Z
+[2]+  Stopped                 python3 dl54rcksci.py
+dl302@soetcse:~/bhavna$ python3 dl54rcksci.py
+enter choice r/p/sr
+comp wins
+Computer is the winner
+dl302@soetcse:~/bhavna$ python3 dl54rcksci.py
+enter choice r/p/sr
+comp wins
+1
+Computer is the winner
+dl302@soetcse:~/bhavna$ python3 dl54rcksci.py
+enter choice r/p/sr
+comp wins
+1
+enter choice r/p/sp
+comp wins
+2
+enter choice r/p/ss
+you win
+1
+enter choice r/p/sp
+comp wins
+3
+Computer is the winner
+dl302@soetcse:~/bhavna$ python3 dl54rcksci.py
+enter choice r/p/sr
+comp wins
+enter choice r/p/sr
+you win
+enter choice r/p/sr
+comp wins
+enter choice r/p/sr
+you win
+enter choice r/p/sr
+comp wins
+Computer is the winner
+dl302@soetcse:~/bhavna$ python3 dl54rcksci.py
+enter choice r/p/sr
+comp wins
+enter choice r/p/sr
+you win
+enter choice r/p/ss
+comp wins
+enter choice r/p/s^Z
+[3]+  Stopped                 python3 dl54rcksci.py
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 2
+    for j in range (1,11)
+    ^
+IndentationError: unexpected indent
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 2
+    for j in range (1,11):
+    ^
+IndentationError: unexpected indent
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 2
+    for j in range (1,11):
+    ^
+IndentationError: unexpected indent
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 2
+    for j in range (1,11):
+    ^
+IndentationError: unexpected indent
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 2
+    for j in range (1,11):
+    ^
+IndentationError: unexpected indent
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 2
+    for j in range (1,11):
+    ^
+IndentationError: unexpected indent
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 2
+    for j in range (1,11):
+    ^
+IndentationError: unexpected indent
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+  File "dl61rngfunc.py", line 3
+    print [n,'X',j,'='n*j]
+                      ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print([n,'X',j,'='n*j])?
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+enter your table number35
+Traceback (most recent call last):
+  File "dl61rngfunc.py", line 3, in <module>
+    print [n,'X',j,'=',n*j]
+TypeError: 'builtin_function_or_method' object is not subscriptable
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+enter your table number8
+Traceback (most recent call last):
+  File "dl61rngfunc.py", line 3, in <module>
+    print [n,"X",j,"=",n*j]
+TypeError: 'builtin_function_or_method' object is not subscriptable
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+enter your table number9
+9 X 1 = 9
+9 X 2 = 18
+9 X 3 = 27
+9 X 4 = 36
+9 X 5 = 45
+9 X 6 = 54
+9 X 7 = 63
+9 X 8 = 72
+9 X 9 = 81
+9 X 10 = 90
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py78
+python3: can't open file 'dl61rngfunc.py78': [Errno 2] No such file or directory
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.
+python3: can't open file 'dl61rngfunc.': [Errno 2] No such file or directory
+dl302@soetcse:~/bhavna$ python3 dl61rngfunc.py
+enter your table number89
+89 X 1 = 89
+89 X 2 = 178
+89 X 3 = 267
+89 X 4 = 356
+89 X 5 = 445
+89 X 6 = 534
+89 X 7 = 623
+89 X 8 = 712
+89 X 9 = 801
+89 X 10 = 890
+dl302@soetcse:~/bhavna$ 
+
