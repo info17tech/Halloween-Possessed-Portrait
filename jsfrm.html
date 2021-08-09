@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js form</title>
+</head>
+<body><form name="subscribe" id="subscribe_frm" action="#">
+	
+	your name:<input type="text" name="name" maxlength="10" placeholder="Enter name" required title="please dont keep it empty"  id="txt_name"><br> 
+	
+	your email:<input type="email " name="email" placeholder="Enter email id" id="txt_email"><br>
+	<input type="button" name="submit" value="submit" onclick="processFormData();"/>
+	
+</form>
+	<script type="text/javascript">
+		function processFormData(){
+			var name_element = document.getElementById('txt_name').value;
+			var email_element = document.getElementById('txt_email').value;
+			document.write("name entered is"+name_element+"<br>")
+			document.write("email entered is"+email_element+"<br>")
+
+		}
+		
+
+    
+
+	</script>
+</body>
+	
+
+
+
+</html>

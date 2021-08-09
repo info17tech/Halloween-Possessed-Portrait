@@ -1,0 +1,155 @@
+dl302@soetcse:~/bhavna$ subl
+dl302@soetcse:~/bhavna$ python3 dl5snakeladder.py
+python3: can't open file 'dl5snakeladder.py': [Errno 2] No such file or directory
+dl302@soetcse:~/bhavna$ python3 dl51snakeladder.py
+enter r to roll the dice,q to quit:r
+dice value 0
+your score is  5
+enter r to roll the dice,q to quit:r
+dice value 5
+your score is  7
+enter r to roll the dice,q to quit:r
+dice value 7
+your score is  9
+enter r to roll the dice,q to quit:r
+dice value 9
+your score is  15
+enter r to roll the dice,q to quit:r
+dice value 15
+your score is  19
+enter r to roll the dice,q to quit:r
+dice value 19
+your score is  21
+enter r to roll the dice,q to quit:r
+dice value 21
+your score is  25
+snake bite
+enter r to roll the dice,q to quit:r
+dice value 4
+your score is  5
+enter r to roll the dice,q to quit:r
+dice value 5
+your score is  11
+snake bite
+enter r to roll the dice,q to quit:r
+dice value 2
+your score is  5
+enter r to roll the dice,q to quit:r
+dice value 5
+your score is  9
+enter r to roll the dice,q to quit:r
+dice value 9
+your score is  11
+snake bite
+enter r to roll the dice,q to quit:r
+dice value 2
+your score is  6
+enter r to roll the dice,q to quit:r
+dice value 6
+your score is  7
+enter r to roll the dice,q to quit:r
+dice value 7
+your score is  10
+enter r to roll the dice,q to quit:r
+dice value 10
+your score is  14
+enter r to roll the dice,q to quit:r
+dice value 14
+your score is  19
+enter r to roll the dice,q to quit:r
+dice value 19
+your score is  20
+enter r to roll the dice,q to quit:r
+dice value 20
+your score is  25
+snake bite
+enter r to roll the dice,q to quit:r
+dice value 4
+your score is  5
+enter r to roll the dice,q to quit:r
+dice value 5
+your score is  10
+enter r to roll the dice,q to quit:r
+dice value 10
+your score is  16
+enter r to roll the dice,q to quit:r
+dice value 16
+your score is  21
+enter r to roll the dice,q to quit:r
+dice value 21
+your score is  24
+enter r to roll the dice,q to quit:r
+dice value 24
+your score is  30
+enter r to roll the dice,q to quit:r
+dice value 30
+your score is  35
+enter r to roll the dice,q to quit:r
+dice value 35
+your score is  36
+enter r to roll the dice,q to quit:r
+dice value 36
+your score is  41
+enter r to roll the dice,q to quit:r
+dice value 41
+your score is  42
+enter r to roll the dice,q to quit:r
+dice value 42
+your score is  46
+enter r to roll the dice,q to quit:r
+dice value 46
+your score is  47
+enter r to roll the dice,q to quit:r
+dice value 47
+your score is  48
+enter r to roll the dice,q to quit:r
+dice value 48
+your score is  50
+enter r to roll the dice,q to quit:r
+dice value 50
+your score is  56
+enter r to roll the dice,q to quit:r
+dice value 56
+your score is  59
+enter r to roll the dice,q to quit:r
+dice value 59
+your score is  61
+enter r to roll the dice,q to quit:r
+dice value 61
+your score is  67
+enter r to roll the dice,q to quit:r
+dice value 67
+your score is  70
+enter r to roll the dice,q to quit:r
+dice value 70
+your score is  71
+enter r to roll the dice,q to quit:r
+dice value 71
+your score is  73
+enter r to roll the dice,q to quit:r
+dice value 73
+your score is  79
+enter r to roll the dice,q to quit:r
+dice value 79
+your score is  82
+enter r to roll the dice,q to quit:r
+dice value 82
+your score is  84
+enter r to roll the dice,q to quit:r
+dice value 84
+your score is  85
+enter r to roll the dice,q to quit:r
+dice value 85
+your score is  90
+enter r to roll the dice,q to quit:r
+dice value 90
+your score is  94
+enter r to roll the dice,q to quit:r
+dice value 94
+your score is  97
+enter r to roll the dice,q to quit:r
+dice value 97
+your score is  100
+you win
+enter r to roll the dice,q to quit:
+

@@ -1,0 +1,264 @@
+dl302@soetcse:~$ cd bhavna
+dl302@soetcse:~/bhavna$ subl
+dl302@soetcse:~/bhavna$ dl51fun.py
+dl51fun.py: command not found
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+  File "dl51fun.py", line 1
+    def subtract()
+                 ^
+SyntaxError: invalid syntax
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+3510
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+3510
+1.1964285714285714
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+3510
+1.1964285714285714
+47
+dl302@soetcse:~/bhavna$ python3 dl52fun.py
+enter number A:56
+enter number B:68
+addition: 124
+subtraction: -12
+dl302@soetcse:~/bhavna$ 
+dl302@soetcse:~$ cd bhavna
+dl302@soetcse:~/bhavna$ subl
+dl302@soetcse:~/bhavna$ dl51fun.py
+dl51fun.py: command not found
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+  File "dl51fun.py", line 1
+    def subtract()
+                 ^
+SyntaxError: invalid syntax
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+3510
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+3510
+1.1964285714285714
+dl302@soetcse:~/bhavna$ python3 dl51fun.py
+40
+3510
+1.1964285714285714
+47
+dl302@soetcse:~/bhavna$ python3 dl52fun.py
+enter number A:56
+enter number B:68
+addition: 124
+subtraction: -12
+dl302@soetcse:~/bhavna$ python3 add.py
+a is greater than b
+a is odd
+dl302@soetcse:~/bhavna$ python3 5.py
+enter value of a35
+a is odd
+dl302@soetcse:~/bhavna$ python3 positive.py
+enter value of a56
+56 is positive
+dl302@soetcse:~/bhavna$ python3 gradee.py
+python3: can't open file 'gradee.py': [Errno 2] No such file or directory
+dl302@soetcse:~/bhavna$ python3 grade.py
+enter the value45
+E
+dl302@soetcse:~/bhavna$ python3 grade.py
+enter the value
+Traceback (most recent call last):
+  File "grade.py", line 1, in <module>
+    a=int(input("enter the value"))
+ValueError: invalid literal for int() with base 10: ''
+dl302@soetcse:~/bhavna$ python3 grater.py
+python3: can't open file 'grater.py': [Errno 2] No such file or directory
+dl302@soetcse:~/bhavna$ python3 greater.py
+enter value of a56
+enter value of b78
+enter value of c89
+c is greater
+dl302@soetcse:~/bhavna$ python3 reverse50.py
+5
+4
+3
+2
+1
+dl302@soetcse:~/bhavna$ python3 evennumber.py
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+48
+50
+52
+54
+56
+58
+60
+62
+64
+66
+68
+70
+72
+74
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+100
+102
+104
+106
+108
+110
+112
+114
+116
+118
+120
+122
+124
+126
+128
+130
+132
+134
+136
+138
+140
+142
+144
+146
+148
+150
+152
+154
+156
+158
+160
+162
+164
+166
+168
+170
+172
+174
+176
+178
+180
+182
+184
+186
+188
+190
+192
+194
+196
+198
+200
+202
+204
+206
+208
+210
+212
+214
+216
+218
+220
+222
+224
+226
+228
+230
+232
+234
+236
+238
+240
+242
+244
+246
+248
+250
+dl302@soetcse:~/bhavna$ python3 oddnumber.py
+python3: can't open file 'oddnumber.py': [Errno 2] No such file or directory
+dl302@soetcse:~/bhavna$ python3 temp.py
+29
+dl302@soetcse:~/bhavna$ python3 temp.py
+18
+dl302@soetcse:~/bhavna$ python3 temp.py
+25
+dl302@soetcse:~/bhavna$ python3 temp.py
+30
+dl302@soetcse:~/bhavna$ python3 rollquit.py
+enter r to roll the dice,q to quit:r
+2
+enter r to roll the dice,q to quit:r
+2
+enter r to roll the dice,q to quit:r
+6
+enter r to roll the dice,q to quit:r
+3
+enter r to roll the dice,q to quit:r
+3
+enter r to roll the dice,q to quit:q
+dl302@soetcse:~/bhavna$ python3 dl53datstru.py
+  File "dl53datstru.py", line 2
+    print(fruits[2]):
+                    ^
+SyntaxError: invalid syntax
+dl302@soetcse:~/bhavna$ python3 dl53datstru.py
+Traceback (most recent call last):
+  File "dl53datstru.py", line 2, in <module>
+    print(fruits[2])
+TypeError: 'set' object does not support indexing
+dl302@soetcse:~/bhavna$ python3 dl53datstru.py
+Traceback (most recent call last):
+  File "dl53datstru.py", line 2, in <module>
+    print(fruits[2])
+TypeError: 'set' object does not support indexing
+dl302@soetcse:~/bhavna$ python3 dl53datstru.py
+kiwi
+dl302@soetcse:~/bhavna$ python3 dl53datstru.py
+kiwi
+apple
+dl302@soetcse:~/bhavna$ python3 dl53datstru.py
+kiwi
+apple
+['orange', 'apple', 'kiwi', 'mango']
+

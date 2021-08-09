@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>global search for numbers</title>
+</head>
+<body>
+<button onclick="myfunction()">Try it</button>
+<p id="demo"></p>
+<script type="text/javascript">
+	function myfunction()
+	{var str="HTML current version no is 5";
+	var patt1=/[1-5]/g;
+	var result=str.match(patt1);
+	document.getElementById('demo').innerHTML=result;}
+</script>
+</body>
+</html>

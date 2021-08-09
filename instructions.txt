@@ -1,0 +1,10 @@
+1.made our github accounts 
+2.created my first directory
+
+commands learnt
+1.ls listing your directory
+2.mkdir making new directory
+3.cd changing directory
+4.man mannual 
+5.clear is to clear
+6.exit to exit from directory

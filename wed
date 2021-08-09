@@ -1,0 +1,76 @@
+1 | 2 | 3
+---------
+4 | X | 6
+---------
+7 | 8 | 9
+---------
+Computer chose 9
+
+1 | 2 | X
+---------
+4 | X | 6
+---------
+7 | 8 | O
+---------
+Computer chose 8
+
+1 | 2 | X
+---------
+4 | X | 6
+---------
+X | O | O
+---------
+Player 1 wins
+dl302@soetcse:~/bhavna$ 
+
+1 | 2 | X
+---------
+4 | X | 6
+---------
+X | O | O
+---------
+Player 1 wins
+dl302@soetcse:~/bhavna$ 
+
+X | 2 | 3
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+---------
+Computer chose 7
+
+X | 2 | 3
+---------
+X | 5 | 6
+---------
+O | 8 | 9
+---------
+Computer chose 5
+X | 2 | X
+---------
+X | O | 6
+---------
+O | 8 | 9
+---------
+Computer chose 8
+
+
+X | 2 | X
+---------
+X | O | 6
+---------
+O | O | 9
+---------
+Choose your place2
+Player 1 chose 2
+X | X | X
+---------
+X | O | 6
+---------
+O | O | 9
+---------
+Player 1 wins
+dl302@soetcse:~/bhavna$ 
+
+

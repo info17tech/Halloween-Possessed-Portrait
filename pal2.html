@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>palindrome</title>
+	<script type="text/javascript">
+		var candidatePalindrome =  prompt("Enter a word or number for finding whether its a palindrome:");
+var n = candidatePalindrome.length - 1 ;
+
+var isPalindrome = 1;
+for (var i = 0; i <= n; i++) { 
+  if (i < n-i && candidatePalindrome[i] !== candidatePalindrome[n-i]){
+      isPalindrome = 0;
+      break;
+  }
+}
+
+if (isPalindrome){
+   document.write("It is a Palindrome");
+}else{
+   document.write("It is not a Palindrome");
+}
+	</script>
+</head>
+<body>
+
+</body>
+</html>

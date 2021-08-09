@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>global search</title>
+
+</head>
+<body>
+	<button onclick="myFunction()">Try it</button>
+	<p id="demo"></p>
+	<script>
+		function myFunction()
+		{var str="Tom was chasing jerry in episode #45";
+		var patt1= /\d/g;
+		var result=str.match(patt1);
+		document.getElementById("demo").innerHTML=result;
+		}
+
+	</script>
+
+</body>
+</html>
